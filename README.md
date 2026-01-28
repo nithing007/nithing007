@@ -1,5 +1,4 @@
-<h2 align="left">Hi 👋! My name is Nithin and I'm a Software Developer, from Coimbatore</h2>
-
+👋 Hi, I'm Nithin!<br><br>A passionate Software Developer and B.Tech Information Technology student with a strong foundation in full-stack development, data structures & algorithms, and robotics integration.  Building innovative, scalable applications — from real-time chat platforms to interactive 3D environments — and continuously strive to learn and implement emerging technologies.
 ###
 
 <div align="center">
