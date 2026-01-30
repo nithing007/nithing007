@@ -1,4 +1,4 @@
-<h3>👋 Hi, I'm Nithin!</h3><br><br>A passionate Software Developer and B.Tech Information Technology student with a strong foundation in full-stack development, data structures & algorithms.
+<h2>👋 Hi, I'm Nithin!</h2><br>A passionate Software Developer and B.Tech Information Technology student with a strong foundation in full-stack development, data structures & algorithms.
 
 ## 💻 Tech Stack
 
