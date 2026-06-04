@@ -1,36 +1,143 @@
-<h2>👋 Hi, I'm Nithin!</h2><br>A passionate Software Developer and B.Tech Information Technology student with a strong foundation in full-stack development, data structures & algorithms.
+<h1 align="center">Hi 👋, I'm Nithin</h1>
+<h3 align="center">Software Developer | MERN Stack Developer 🚀</h3>
 
-## 💻 Tech Stack
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nithin-G&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+---
 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=sass&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+## 🙋‍♂️ About Me
 
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+💻 Information Technology Undergraduate
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+🚀 Passionate Software Developer focused on building scalable web applications
 
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+🌱 Currently enhancing my skills in Full Stack Development and Backend Engineering
 
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+🧠 Interested in System Design, APIs, and Problem Solving
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+⚡ Love turning ideas into real-world applications
 
+🎯 Goal: Become a Software Engineer building impactful products
 
- 
-###
+---
 
-###
+## 🛠️ Tech Stack
+
+### Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=java,javascript,c" />
+</p>
+
+### Frontend Development
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
+</p>
+
+### Backend Development
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 📌 TrackEase Pro – Issue Tracker
+
+🔹 Full-stack issue tracking platform built using MERN Stack
+
+🔹 JWT Authentication & Role-Based Access Control
+
+🔹 RESTful APIs for complaint/task management
+
+🔹 Optimized MongoDB queries for better performance
+
+---
+
+### 🛒 NexaCart AI – Smart E-Commerce Platform
+
+🔹 AI-powered product recommendation system
+
+🔹 User authentication and order management
+
+🔹 MERN Stack architecture with scalable backend services
+
+🔹 Personalized shopping experience
+
+---
+
+### 📚 Attendance Management System
+
+🔹 Java Console Application
+
+🔹 Student attendance tracking and report generation
+
+🔹 Implemented OOP concepts and File Handling
+
+🔹 Efficient data storage and retrieval
+
+---
+
+## 🏆 Certifications
+
+📜 Java Programming – ScholarHat
+
+📜 Complete Database Course: SQL, MySQL & MongoDB – ScholarHat
+
+📜 Prompt Engineering – Udemy
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Nithin-G&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nithin-G&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nithin-G&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 💻 LeetCode & Problem Solving
+
+🔹 Solving Data Structures and Algorithms problems regularly
+
+🔹 Focused on improving problem-solving and coding interview skills
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="YOUR_LINKEDIN_URL" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+
+<a href="YOUR_GITHUB_URL" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
+</p>
+
+---
+
+### ✨ Quote
+
+> "Code. Learn. Build. Repeat."
