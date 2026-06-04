@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer | MERN Stack Developer 🚀</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nithin-G&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -15,27 +15,27 @@
 
 🌱 Currently enhancing my skills in Full Stack Development and Backend Engineering
 
-🧠 Interested in System Design, APIs, and Problem Solving
+🧠 Strong interest in Data Structures & Algorithms
 
-⚡ Love turning ideas into real-world applications
+⚡ Love solving problems and building user-centric applications
 
-🎯 Goal: Become a Software Engineer building impactful products
+🎯 Aspiring Software Engineer eager to contribute to impactful products
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
+### Languages
 <p>
 <img src="https://skillicons.dev/icons?i=java,javascript,c" />
 </p>
 
-### Frontend Development
+### Frontend
 <p>
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
 </p>
 
-### Backend Development
+### Backend
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
@@ -45,99 +45,60 @@
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-### Tools & Platforms
+### Tools
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🎯 Core Skills
 
-### 📌 TrackEase Pro – Issue Tracker
-
-🔹 Full-stack issue tracking platform built using MERN Stack
-
-🔹 JWT Authentication & Role-Based Access Control
-
-🔹 RESTful APIs for complaint/task management
-
-🔹 Optimized MongoDB queries for better performance
+<img src="https://img.shields.io/badge/MERN-Stack-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Java-Programming-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DSA-Problem%20Solving-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/REST-APIs-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MongoDB-Database-brightgreen?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MySQL-Database-blue?style=for-the-badge" />
 
 ---
 
-### 🛒 NexaCart AI – Smart E-Commerce Platform
+## 🌱 Currently Learning
 
-🔹 AI-powered product recommendation system
+🔹 Advanced React.js Concepts
 
-🔹 User authentication and order management
+🔹 Backend Architecture & API Design
 
-🔹 MERN Stack architecture with scalable backend services
+🔹 System Design Fundamentals
 
-🔹 Personalized shopping experience
-
----
-
-### 📚 Attendance Management System
-
-🔹 Java Console Application
-
-🔹 Student attendance tracking and report generation
-
-🔹 Implemented OOP concepts and File Handling
-
-🔹 Efficient data storage and retrieval
+🔹 Scalable Web Application Development
 
 ---
 
-## 🏆 Certifications
+## 💻 Coding Profiles
 
-📜 Java Programming – ScholarHat
+🔹 LeetCode Enthusiast
 
-📜 Complete Database Course: SQL, MySQL & MongoDB – ScholarHat
+🔹 Regular DSA Practice
 
-📜 Prompt Engineering – Udemy
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Nithin-G&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nithin-G&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nithin-G&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 💻 LeetCode & Problem Solving
-
-🔹 Solving Data Structures and Algorithms problems regularly
-
-🔹 Focused on improving problem-solving and coding interview skills
+🔹 Problem Solving & Competitive Programming
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="YOUR_LINKEDIN_URL" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 
-<a href="YOUR_GITHUB_URL" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+<a href="YOUR_GITHUB_URL">
+<img src="https://skillicons.dev/icons?i=github" height="40"/>
 </a>
 </p>
 
 ---
 
-### ✨ Quote
+### ✨ Motto
 
-> "Code. Learn. Build. Repeat."
+> Learn → Build → Improve → Repeat 🚀
